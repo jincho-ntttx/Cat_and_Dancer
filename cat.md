@@ -129,9 +129,3 @@ Press the + button on the list and set the "Dancing" and "OK" settings.
 Connect the blocks.
 
 ![Cat](figure/cat/cat_talk_program_main.png)
-
-- 最後に、プログラムを保存してください。
-
-    Finally, save the program.
-
-![Common](figure/common/save.png)

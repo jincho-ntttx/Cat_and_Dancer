@@ -161,9 +161,3 @@ Press the ▼ button in ![Common](figure/common/voice.png) and select "Tenor" fr
     Connect the blocks.
 
 ![Dancer](figure/dancer/dancer_talk_program_main.png)
-
-- 最後に、プログラムを保存してください。
-
-    Finally, save the program.
-
-![Common](figure/common/save.png)
